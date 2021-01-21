@@ -1,0 +1,2 @@
+Main-class: timescli.TimesCLI
+Class-Path: timescli/json-simple-1.1.1.jar
