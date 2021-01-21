@@ -1,3 +1,3 @@
 *.class
 *.properties
-timescli/
+manifest.mf
